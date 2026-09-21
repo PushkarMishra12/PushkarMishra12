@@ -4,9 +4,11 @@
 
 **Full-Stack Engineer &bull; High-Performance API Architect &bull; Applied AI &bull; Autonomous Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pushkar--mishra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar-mishra-9947a0345)
-[![Email](https://img.shields.io/badge/Email-pushkarmishra.nea10%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pushkarmishra.nea10@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-PushkarMishra12-181717?style=flat&logo=github&logoColor=white)](https://github.com/PushkarMishra12)
+<br/>
+
+<a href="https://www.linkedin.com/in/pushkar-mishra-9947a0345"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/PushkarMishra12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:pushkarmishra.nea10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -49,8 +51,9 @@ Infrastructure    Git, Linux/POSIX, Docker, Postman, VS Code
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PushkarMishra12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" height="155" alt="Pushkar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarMishra12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="155" alt="Top Languages" />
+  <a href="https://github.com/PushkarMishra12?tab=repositories">
+    <img src="./assets/github-activity.svg" width="100%" alt="Pushkar Mishra's GitHub Engineering Activity" />
+  </a>
 </div>
 
 ---

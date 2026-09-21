@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" fill="none">
+  <defs>
+    <linearGradient id="avatarBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0369a1" />
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Outer glowing ring -->
+  <circle cx="100" cy="100" r="94" fill="url(#avatarBg)" stroke="url(#ringGrad)" stroke-width="4" />
+  
+  <!-- Stylized Developer Silhouette / Monogram -->
+  <circle cx="100" cy="78" r="32" fill="#38bdf8" fill-opacity="0.25" stroke="#38bdf8" stroke-width="2.5" />
+  <path d="M 52 156 C 52 122, 74 116, 100 116 C 126 116, 148 122, 148 156" fill="#818cf8" fill-opacity="0.2" stroke="#818cf8" stroke-width="2.5" stroke-linecap="round" />
+  
+  <!-- Initials "PM" -->
+  <text x="100" y="86" text-anchor="middle" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" letter-spacing="1">PM</text>
+  
+  <!-- Tech indicator dot -->
+  <circle cx="152" cy="148" r="10" fill="#0f172a" stroke="#22c55e" stroke-width="2" />
+  <circle cx="152" cy="148" r="5" fill="#22c55e" />
+</svg>

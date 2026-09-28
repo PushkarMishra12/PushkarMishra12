@@ -47,7 +47,7 @@ Infrastructure    Git, Linux/POSIX, Docker, Postman, VS Code
 - **Mission Control Dashboard:** Built a responsive, dark-mode analytical interface for geospatial mapping and operational intelligence.
 
 
-### **AI Hallucination Proxy (https://github.com/PushkarMishra12/AI-Hallucination-Proxy) — Academic-Grounded Guardrails & Active Sanitization Proxy for LLMs**
+### **[AI Hallucination Proxy](https://github.com/PushkarMishra12/AI-Hallucination-Proxy) — Academic-Grounded Guardrails & Active Sanitization Proxy for LLMs**
 *An asynchronous middleware proxy designed to intercept, audit, and fact-check Large Language Model outputs in real time using multi-source evidence grounding.*
 
 - **Atomic Claim Decomposition:** Breaks raw LLM drafts into discrete, falsifiable propositions at deterministic zero-temperature to avoid secondary hallucinations.
